@@ -1,2 +1,2 @@
-# mini_research
-Remembering basic concepts
+# Mini Research
+Space to remember and practice basic concepts
