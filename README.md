@@ -1,2 +1,2 @@
-# Mini Research
+# My Notebook
 Space to remember and practice basic concepts
